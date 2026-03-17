@@ -1,0 +1,102 @@
+# ClassicWrench - Complete Classic Car Mechanics Directory
+
+> ClassicWrench is the most comprehensive directory of classic car mechanics and restoration shops in America.
+> We list 46 shops across 38 states.
+
+## All Shops
+
+- Singer Vehicle Design — Los Angeles, CA
+- Gunther Werks — Huntington Beach, CA
+- RSR Motors — San Diego, CA
+- Patrick Motorsports — El Segundo, CA
+- Icon 4x4 — Chatsworth, CA
+- Classic Car Studio — Austin, TX
+- Texas Classic Cars — Houston, TX
+- Motorsport Ranch Classics — Dallas, TX
+- Perfectly Vintage — Miami, FL
+- Sunshine State Classics — Tampa, FL
+- Motor City Muscle — Detroit, MI
+- Woodward Classics — Royal Oak, MI
+- Liberty Classics — Philadelphia, PA
+- Manhattan Motors Classic — Long Island City, NY
+- Cascade Classics — Portland, OR
+- Rocky Mountain Restoration — Denver, CO
+- Emerald City Classics — Seattle, WA
+- Desert Classic Motors — Scottsdale, AZ
+- Peach State Classics — Atlanta, GA
+- Windy City Classics — Chicago, IL
+- Commonwealth Classics — Boston, MA
+- Buckeye Classics — Columbus, OH
+- Old Dominion Classics — Richmond, VA
+- Tar Heel Classics — Charlotte, NC
+- Music City Motors — Nashville, TN
+- Silver State Classics — Las Vegas, NV
+- Land of Enchantment Classics — Albuquerque, NM
+- Wasatch Classics — Salt Lake City, UT
+- Constitution State Classics — Hartford, CT
+- Badger State Classics — Milwaukee, WI
+- North Star Classics — Minneapolis, MN
+- Hoosier Classics — Indianapolis, IN
+- Show Me Classics — St. Louis, MO
+- Hawkeye Classics — Des Moines, IA
+- Sunflower State Classics — Wichita, KS
+- Cornhusker Classics — Omaha, NE
+- Palmetto State Classics — Charleston, SC
+- Heart of Dixie Classics — Birmingham, AL
+- Natural State Classics — Little Rock, AR
+- First State Classics — Wilmington, DE
+- Aloha State Classics — Honolulu, HI
+- Gem State Classics — Boise, ID
+- Pelican State Classics — New Orleans, LA
+- Pine Tree State Classics — Portland, ME
+- Big Sky Classics — Billings, MT
+- Sooner State Classics — Oklahoma City, OK
+
+## States Covered
+
+- AL (1 shops)
+- AR (1 shops)
+- AZ (1 shops)
+- CA (5 shops)
+- CO (1 shops)
+- CT (1 shops)
+- DE (1 shops)
+- FL (2 shops)
+- GA (1 shops)
+- HI (1 shops)
+- IA (1 shops)
+- ID (1 shops)
+- IL (1 shops)
+- IN (1 shops)
+- KS (1 shops)
+- LA (1 shops)
+- MA (1 shops)
+- ME (1 shops)
+- MI (2 shops)
+- MN (1 shops)
+- MO (1 shops)
+- MT (1 shops)
+- NC (1 shops)
+- NE (1 shops)
+- NM (1 shops)
+- NV (1 shops)
+- NY (1 shops)
+- OH (1 shops)
+- OK (1 shops)
+- OR (1 shops)
+- PA (1 shops)
+- SC (1 shops)
+- TN (1 shops)
+- TX (3 shops)
+- UT (1 shops)
+- VA (1 shops)
+- WA (1 shops)
+- WI (1 shops)
+
+## Services
+Full Restoration, Engine Rebuild, Paint & Body, Upholstery, Parts Sourcing, Electrical, Transmission, Brake Systems, Suspension, Chrome & Trim
+
+## Specialties
+Porsche, Ferrari, Mercedes-Benz, BMW, Jaguar, Muscle Cars, British Sports Cars, Pre-War, Hot Rods, Corvette, Ford, Chevrolet
+
+## URL: https://classic-mechanics.vercel.app
